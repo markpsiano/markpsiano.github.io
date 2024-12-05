@@ -8,6 +8,8 @@ body {
 	height: 100%;
 	flex-direction: column;
 	column-gap: 2rem;
+	align-items: center;
+	justify-content: center;
 }
 
 #verify-div {
