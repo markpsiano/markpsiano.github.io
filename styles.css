@@ -2,6 +2,16 @@ body {
 	background-color: #a36ce6;
 }
 
+h2.register {
+	font-size: 1.5rem;
+}
+
+.verify-button {
+	border-radius: 0.5rem;
+	background: white;
+	border: 3px solid gray;
+}
+
 .flex-div {
 	display: flex;
 	width: 100%;
